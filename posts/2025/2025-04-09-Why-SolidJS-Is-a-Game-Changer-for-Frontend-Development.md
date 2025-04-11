@@ -1,6 +1,6 @@
 # Why Solid.js with TypeScript Is a Game-Changer for Frontend Development
 
-As modern web development continues to push the boundaries of performance and maintainability, Solid.js has emerged as a lightweight, high-performance framework that combines the best of several worlds. When paired with TypeScript and `.tsx`, Solid.js offers an unbeatable developer experience. In this blog post, I'll explore the benefits of using Solid.js with TypeScript, compare it to frameworks like React, Vue.js, and Angular, and discuss the learning curve for developers coming from different backgrounds.
+As modern web development continues to push the boundaries of performance and maintainability, Solid.js has emerged as a lightweight, high-performance framework that combines the best of several worlds. When paired with TypeScript and JSX (`.tsx`), Solid.js offers an unbeatable developer experience. In this blog post, I'll explore the benefits of using Solid.js with TypeScript, compare it to frameworks like React, Vue.js, and Angular, and discuss the learning curve for developers coming from different backgrounds.
 
 ---
 
